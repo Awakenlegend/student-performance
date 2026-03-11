@@ -4,7 +4,7 @@ import numpy as np #used for math operation
 import pandas as pd # used data analysis
 
 # In[2]:
-df=pd.read_csv('/content/StudentsPerformance.csv')#import dataset
+df=pd.read_csv('StudentsPerformance.csv')#import dataset
 
 # In[3]:
 df
